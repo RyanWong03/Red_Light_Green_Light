@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-//testing
-
 public class GameOver : MonoBehaviour
 {
     public animationStateController state;
