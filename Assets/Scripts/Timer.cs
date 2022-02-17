@@ -6,7 +6,7 @@ using System.IO;
 
 public class Timer : MonoBehaviour
 {
-    
+
     public Text timer;
     public float time;
     float msec;
